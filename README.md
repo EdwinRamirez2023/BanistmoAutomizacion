@@ -1,2 +1,2 @@
 # BanistmoAutomizacion
-Este proyecto contiene la automatización con Screenplay, serenity, cucumber, gherkin y pageObject de una ruta en la pagina de Banistmo
+Este proyecto contiene la automatización con Screenplay, serenity, cucumber, gherkin y pageObject de una ruta en la pagina de Banistmo https://www.banistmo.com/wps/portal/banistmo/personas, una vez el usuario este en la pagina del link anterior realiza lo siguiente: Seleccione la opción “Acerca de Nosotros”,Seleccione la opción Información Corporativa”,Seleccione la opció“Proveedores” del menú desplegado,Seleciona el boton "CONOCE MÁS" del avbiso de convocatoria de fideicomiso y por ultimo Valida que la pantalla emergente sea la correcta.
